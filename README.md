@@ -6,6 +6,8 @@
 
 ![clean architecture Robert Martin](./docs/images/img_clean_architecture_robert_martin.png)
 
+![clean architecture Robert Martin](./docs/images/img_clean-architecture_circle.jpeg)
+
 ## Swagger Documentation
 
 http://localhost:3333/api/rest
