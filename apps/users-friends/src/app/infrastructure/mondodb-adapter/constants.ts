@@ -1,0 +1,7 @@
+export const TOKEN_MONGODB_DATABASE_CONNECTION = Symbol(
+  'MONGODB_DATABASE_CONNECTION'
+);
+
+export enum DB_COLLECTION_NAME {
+  USERS = 'users',
+}

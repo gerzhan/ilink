@@ -1,0 +1,1 @@
+export const TOKEN_USERS_REPOSITORY = Symbol('domain.UserRepository')

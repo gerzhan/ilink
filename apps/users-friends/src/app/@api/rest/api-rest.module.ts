@@ -1,8 +1,11 @@
 import { Module } from '@nestjs/common';
-import { GroupsModule } from './groups/groups.module';
 import { UsersModule } from './users/users.module';
 
 @Module({
-  imports: [GroupsModule, UsersModule],
+  imports: [
+    UsersModule,
+    // TODO: feat
+    //  GroupsModule
+  ],
 })
 export class ApiRestModule {}

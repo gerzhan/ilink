@@ -1,0 +1,9 @@
+version: '3.4'
+
+services:
+  db:
+    image: mongo:latest
+    environment:
+      - MONGODB_DATABASE="ilink"
+    ports:
+      - 27017:27017

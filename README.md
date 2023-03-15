@@ -10,7 +10,15 @@ http://localhost:3333/api/rest
 
 http://localhost:3333/graphql
 
-## Development server
+## Development
+
+### Запуск окружения
+
+- запустить docker-compose
+
+```bash
+$dcoker-compose up
+```
 
 Run `yarn nx serve users-friends` for a dev server.
 
