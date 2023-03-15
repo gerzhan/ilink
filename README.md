@@ -8,6 +8,10 @@
 
 ![clean architecture Robert Martin](./docs/images/img_clean-architecture_circle.jpeg)
 
+## Архитектура
+
+![planed architecture](./docs/images/img_architecture-m1.png)
+
 ## Swagger Documentation
 
 http://localhost:3333/api/rest
