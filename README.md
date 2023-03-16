@@ -36,3 +36,11 @@ Run `yarn nx serve users-friends` for a dev server.
 
 - [Nx Documentation](https://nx.dev)
 - [NestJS Documentation](https://docs.nestjs.com)
+
+<div align="center">
+<img title="TypeScript" alt="TypeScript" height=48 src="https://raw.githubusercontent.com/remojansen/logo.ts/master/ts.png"/>
+<img title="NestJS" alt="Nrwl" height=48 src="https://docs.nestjs.com/assets/logo-small.svg"/>
+<img title="Nrwl" alt="Nrwl" height=48 src="https://raw.githubusercontent.com/nrwl/nx/master/images/nx-logo.png"/>
+<img title="eslint" alt="eslint" height=48 src="https://d33wubrfki0l68.cloudfront.net/204482ca413433c80cd14fe369e2181dd97a2a40/092e2/assets/img/logo.svg"/>
+<img title="prettier" alt="prettier" height=48 src="https://prettier.io/icon.png"/>
+</div
